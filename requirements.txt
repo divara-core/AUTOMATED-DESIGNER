@@ -3,5 +3,6 @@ uvicorn
 numpy
 pillow
 python-multipart
+
 opencv-python-headless==4.9.0.80
-mediapipe
+mediapipe==0.10.9
